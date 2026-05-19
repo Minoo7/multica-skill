@@ -1,5 +1,5 @@
 name: "@minoo/multica-skill"
-version: 0.1.0
+version: 0.1.1
 description: Multica CLI skill for AI agents — auth, workspace inspect, issue/comment/run ops, attachment downloads, linked-repo checkouts. Works outside Multica-generated task worktrees.
 license: MIT
 homepage: https://github.com/Minoo7/multica-skill
