@@ -1,0 +1,13 @@
+# Runtime/log noise from local agent harness
+.omx/
+.agents/
+
+# opkg-installed dep output (derived from .openpackage/openpackage.yml)
+.claude/
+
+# Local opkg workspace index (regenerable)
+.openpackage/openpackage.index.yml
+.openpackage/packages/
+
+# Legacy skills-lock (superseded by opkg)
+skills-lock.json
